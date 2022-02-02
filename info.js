@@ -9,7 +9,7 @@ let info = {
     }
   },
   description:
-    "I'm Mert Kaan İrtegün, a software engineer who graduated from Istanbul Technical University and is interested in software Development, UI/UX Design and Front-end development.",
+    "I'm Mert Kaan Irtegun, a software engineer who graduated from Istanbul Technical University and is interested in software Development, UI/UX Design and Front-end development.",
   links: {
     linkedin: "https://www.linkedin.com/in/mert-kaan-irteg%C3%BCn-0490541b5/",
     github: "https://github.com/kaanirtegun8",
