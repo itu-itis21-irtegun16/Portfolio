@@ -12,7 +12,7 @@ let info = {
     "I'm Mert Kaan İrtegün, a software engineer who graduated from Istanbul Technical University and is interested in software Development, UI/UX Design and Front-end development.",
   links: {
     linkedin: "https://www.linkedin.com/in/mert-kaan-irteg%C3%BCn-0490541b5/",
-    github: "https://github.com/itu-itis21-irtegun16",
+    github: "https://github.com/kaanirtegun8",
     instagram: "https://www.instagram.com/kaanirtegun8/",
     resume:
       "https://github.com/itu-itis21-irtegun16/git-fundamentals-draft-itu-itis21-irtegun16/raw/main/CV%20Mert%20Kaan%20%C4%B0rteg%C3%BCn%20%231.pdf"
