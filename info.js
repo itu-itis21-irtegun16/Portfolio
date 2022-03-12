@@ -9,13 +9,13 @@ let info = {
     }
   },
   description:
-    "I'm Mert Kaan Irtegun, a software engineer who graduated from Istanbul Technical University and is interested in software Development, UI/UX Design and Front-end development.",
+    "I'm Mert Kaan Irtegun, a software engineer who graduated from Istanbul Technical University and is interested in Software Development, UI/UX Design and Frontend development.",
   links: {
     linkedin: "https://www.linkedin.com/in/mert-kaan-irteg%C3%BCn-0490541b5/",
     github: "https://github.com/kaanirtegun8",
     instagram: "https://www.instagram.com/kaanirtegun8/",
     resume:
-      "https://github.com/itu-itis21-irtegun16/git-fundamentals-draft-itu-itis21-irtegun16/raw/main/CV%20Mert%20Kaan%20%C4%B0rteg%C3%BCn%20%231.pdf"
+      "https://github.com/kaanirtegun8/git-fundamentals-draft-itu-itis21-irtegun16/blob/main/Kaan-CV.pdf"
   },
   education: [
     {
@@ -41,9 +41,18 @@ let info = {
   ],
   experience: [
     {
+      name: "Armut",
+      place: "Istanbul / Turkey",
+      date: "Feb, 2022 - currently",
+      position: "Frontend Developer",
+      description:
+        "",
+      skills: ["HTML5", "CSS3", "Sass", "Bootstrap", "JavaSript", "Angular", "Jenkins", "Cypress"]
+    },
+    {
       name: "Kavak",
       place: "Istanbul / Turkey",
-      date: "July, 2021 - currently",
+      date: "July, 2021 - Feb 2022",
       position: "Software Developer",
       description:
         "",
