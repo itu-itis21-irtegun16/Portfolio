@@ -15,7 +15,7 @@ let info = {
     github: "https://github.com/kaanirtegun8",
     instagram: "https://www.instagram.com/kaanirtegun8/",
     resume:
-      "https://github.com/kaanirtegun8/git-fundamentals-draft-itu-itis21-irtegun16/blob/main/Kaan-CV.pdf"
+      "https://github.com/kaanirtegun8/git-fundamentals-draft-itu-itis21-irtegun16/raw/main/Kaan-CV.pdf"
   },
   education: [
     {
