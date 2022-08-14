@@ -9,8 +9,7 @@
       <Contact id="contact" :nightMode="nightMode" />
       <Footer :nightMode="nightMode" />
     </div>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1915918496019988"
-     crossorigin="anonymous"></script>
+    
   </div>
 </template>
 
