@@ -15,7 +15,7 @@ let info = {
     github: "https://github.com/kaanirtegun8",
     instagram: "https://www.instagram.com/kaanirtegun8/",
     resume:
-      "https://github.com/kaanirtegun8/git-fundamentals-draft-itu-itis21-irtegun16/raw/main/Kaan-CV.pdf"
+      "https://github.com/kaanirtegun8/git-fundamentals-draft-itu-itis21-irtegun16/raw/main/Cv.pdf"
   },
   education: [
     {
@@ -92,7 +92,7 @@ let info = {
     },
     {
       title: "web technologies",
-      info: ["Vue", "Node"],
+      info: ["Vue", "React", "Angular", "Node"],
       icon: "fas fa-laptop-code"
     },
     {
