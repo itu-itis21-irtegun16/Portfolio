@@ -182,6 +182,31 @@ let info = {
         " It is a web application that you can search for series or movies and cache it on the frontend. "
     },
     {
+      name: 'React-Redux Quote Management System',
+      pictures : [
+        {
+          img: require("./src/assets/portfolio/react-redux/rr1.png")
+        },
+        {
+          img: require("./src/assets/portfolio/react-redux/rr2.png")
+        },
+        {
+          img: require("./src/assets/portfolio/react-redux/rr3.png")
+        },
+        {
+          img: require("./src/assets/portfolio/react-redux/rr4.png")
+        },
+      ],
+      technologies: ["react", "redux"],
+      category: "Web App",
+      date: "December, 2022",
+      github:
+        "https://github.com/kaanirtegun8/React-Redux-Http-Example",
+      visit: "https://vue-resource-6040f.web.app/",
+      description:
+        "It's a simple app I designed while learning react-redux."
+    },
+    {
       name: "Case Study",
       pictures: [
         {
