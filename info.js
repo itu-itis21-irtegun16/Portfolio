@@ -207,6 +207,25 @@ let info = {
         "It's a simple app I designed while learning react-redux."
     },
     {
+      name: 'Simple Weather Application',
+      pictures : [
+        {
+          img: require("./src/assets/portfolio/weather-app/w1.png")
+        },
+        {
+          img: require("./src/assets/portfolio/weather-app/w2.png")
+        },
+      ],
+      technologies: ["react", "redux", 'redux-toolkit'],
+      category: "Web App",
+      date: "December, 2022",
+      github:
+        "https://github.com/kaanirtegun8/weather-app",
+      visit: "https://weather-app-4ada1.web.app/",
+      description:
+        "It's a simple weather app I designed while learning react."
+    },
+    {
       name: "Case Study",
       pictures: [
         {
