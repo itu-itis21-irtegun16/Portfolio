@@ -15,7 +15,7 @@ let info = {
     github: "https://github.com/kaanirtegun8",
     instagram: "https://www.instagram.com/kaanirtegun8/",
     resume:
-      "https://github.com/kaanirtegun8/git-fundamentals-draft-itu-itis21-irtegun16/raw/main/Kaan-CV.pdf"
+      "https://github.com/kaanirtegun8/git-fundamentals-draft-itu-itis21-irtegun16/raw/main/Mert-Kaan-Irtegun.pdf"
   },
   education: [
     {
@@ -47,7 +47,7 @@ let info = {
       position: "Frontend Developer",
       description:
         "",
-      skills: ["HTML5", "CSS3", "Sass", "Bootstrap", "JavaSript", "Angular", "Jenkins", "Cypress"]
+      skills: ["React", "React Native","HTML5", "CSS3", "Sass", "Bootstrap", "JavaSript", "Angular", "Jenkins", "Cypress"]
     },
     {
       name: "Kavak",
